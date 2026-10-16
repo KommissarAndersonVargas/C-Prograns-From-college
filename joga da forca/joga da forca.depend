@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1658100528 source:c:\users\anderson\desktop\uergs\c++\joga da forca\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+

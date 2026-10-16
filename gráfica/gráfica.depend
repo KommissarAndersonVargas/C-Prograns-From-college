@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1664369912 source:c:\users\anderson\desktop\uergs arquivos\c++\gráfica\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<iostream>
+
+1664369698 c:\users\anderson\desktop\uergs arquivos\c++\gráfica\resource.h
+
+1664369698 source:c:\users\anderson\desktop\uergs arquivos\c++\gráfica\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

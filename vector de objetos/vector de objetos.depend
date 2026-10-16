@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669152772 source:c:\users\anderson\desktop\uergs arquivos\c++\vector de objetos\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<limits>
+	<limits.h>
+

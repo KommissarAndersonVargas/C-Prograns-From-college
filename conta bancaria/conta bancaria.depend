@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1661889129 source:c:\users\anderson\desktop\uergs arquivos\c++\conta bancaria\main.cpp
+	<iostream>
+	"contas.h"
+
+1661891873 c:\users\anderson\desktop\uergs arquivos\c++\conta bancaria\contas.h
+	<iostream>
+

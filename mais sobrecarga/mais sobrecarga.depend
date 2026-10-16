@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665874805 source:c:\users\anderson\desktop\uergs arquivos\c++\mais sobrecarga\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+

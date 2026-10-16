@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665343660 source:c:\users\anderson\desktop\uergs arquivos\c++\cod semana acad c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

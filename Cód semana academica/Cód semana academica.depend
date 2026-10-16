@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665342430 source:c:\users\anderson\desktop\uergs arquivos\c++\cód semana academica\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

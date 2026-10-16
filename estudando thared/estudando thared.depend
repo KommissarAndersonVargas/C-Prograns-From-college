@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669638589 source:c:\users\anderson\desktop\uergs arquivos\c++\estudando thared\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669746957 source:c:\users\anderson\desktop\uergs arquivos\c++\perguntas prova 2\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+
